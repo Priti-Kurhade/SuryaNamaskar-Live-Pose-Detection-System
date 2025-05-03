@@ -1,4 +1,4 @@
-# SuryaNamaskar-Live-Pose-Detection-System
+# SuryaNamaskar-Live-Pose-Detection-System-by-using-Machine-Learing 
 A Deep learning model is proposed which uses LR algorithm for yoga 
 pose identification along with a human joints localization model 
 followed by a process for identification
